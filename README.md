@@ -26,7 +26,7 @@ pip install -r requirements.txt
 ## Directory Tree 
 ```
 ├── static 
-│   ├── css
+│   ├── css
 ├── template
 │   ├── home.html
 ├── Procfile
